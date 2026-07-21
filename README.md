@@ -49,7 +49,7 @@ The analysis uses publicly available datasets from **Statistics Canada**:
 
 1. Collected and cleaned multiple labour market and economic datasets from Statistics Canada.
 2. Processed missing values, inconsistencies, and redundant information.
-3. Standardized industry categories across datasets.
+3. Standardized industry categories across datasets and merged them.
 4. Loaded cleaned datasets into a SQL database for efficient querying.
 5. Performed SQL-based aggregation, filtering, ranking, and trend analysis.
 6. Combined SQL queries with Python-based analysis and visualization.
